@@ -1,0 +1,8 @@
+{
+  "name": "LedBlink",
+  "version": "0.0.1",
+  "description": "Arduino projects in Javascript",
+  "dependencies": {
+    "johnny-five": "^2.1.0"
+  }
+}
